@@ -1,0 +1,12 @@
+{
+  "name": "simple-test-harness",
+  "version": "1.0.0",
+  "description": "A tiny zero-dependency test harness for Node.js",
+  "bin": {
+    "harness": "run.js"
+  },
+  "scripts": {
+    "test": "node run.js"
+  },
+  "license": "MIT"
+}
